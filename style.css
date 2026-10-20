@@ -1,0 +1,5 @@
+body { margin: 0; font: 18px/1.6 Arial, sans-serif; color: #172033; background: #f5f7fb; }
+header { background: #143c72; color: white; padding: 2rem; }
+nav a { color: white; margin-right: 1rem; }
+main { max-width: 800px; margin: 2rem auto; padding: 1.5rem; background: white; }
+a { color: #143c72; }
